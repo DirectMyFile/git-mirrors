@@ -1,0 +1,6 @@
+{
+  "git": {
+    "source": "git://github.com/git/git.git",
+    "target": "git@git.directcode.org:mirrors/git.git"
+  }
+}
