@@ -6,5 +6,9 @@
   "docker": {
     "source": "git://github.com/docker/docker.git",
     "target": "git@git.directcode.org:mirrors/docker.git"
+  },
+  "git-repo": {
+    "source": "https://gerrit.googlesource.com/git-repo",
+    "target": "git@git.directcode.org:mirrors/git-repo.git"
   }
 }
