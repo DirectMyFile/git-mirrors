@@ -2,5 +2,9 @@
   "git": {
     "source": "git://github.com/git/git.git",
     "target": "git@git.directcode.org:mirrors/git.git"
+  },
+  "docker": {
+    "source": "git://github.com/docker/docker.git",
+    "target": "git@git.directcode.org:mirrors/docker.git"
   }
 }
